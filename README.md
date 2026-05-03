@@ -6,7 +6,7 @@
 
 Aurekai integration surface for Nix.
 
-Status: planned
+Status: active
 Type: infra
 
 ## Core Template Set
